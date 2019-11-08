@@ -40,6 +40,10 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+package-lock.json
+
+# Pact Testing
+pacts/
 
 # System Files
 .DS_Store
